@@ -1,0 +1,2 @@
+$ git clone (link del repositorio)
+$ git remote -v
